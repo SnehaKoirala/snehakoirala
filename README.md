@@ -1,6 +1,6 @@
 # Hi, I'm Sneha Koirala 👋
 
-I'm a passionate Software Engineering Student at VIA University College, Horsens, Denmark with a great interest in backend development.
+I'm a passionate Software Engineering Student at VIA University College, Horsens, Denmark.
 
 - 🔭 I’m currently seeking a full time 20 weeks Internship.
 
