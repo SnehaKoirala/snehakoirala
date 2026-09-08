@@ -2,7 +2,6 @@
 
 I'm a passionate Software Engineering Student at VIA University College, Horsens, Denmark.
 
-- 🔭 I’m currently seeking a full time 20 weeks Internship.
 
 ## Skills & Technologies
 
