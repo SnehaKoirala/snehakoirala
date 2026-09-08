@@ -1,6 +1,6 @@
 # Hi, I'm Sneha Koirala 👋
 
-I'm a passionate Software Engineering Student at VIA University College, Horsens, Denmark.
+A passionate Software Engineering Student at VIA University College, Horsens, Denmark.
 
 
 ## Skills & Technologies
